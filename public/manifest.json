@@ -1,0 +1,37 @@
+{
+  "name": "Jasa Pengaspalan Barlingmascakeb",
+  "short_name": "Pengaspalan Barlingmascakeb",
+  "description": "Jasa pengaspalan jalan profesional melayani Barlingmascakeb dan sekitarnya.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#eab308",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.jpg",
+      "sizes": "540x720",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/og-image.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ],
+  "categories": [
+    "business",
+    "productivity"
+  ]
+}

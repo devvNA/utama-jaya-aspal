@@ -1,0 +1,44 @@
+{
+    "paket_harga_pengaspalan": [
+        {
+            "jenis": "Tanpa Dasaran / Langsung Aspal",
+            "harga_per_m2": 75000,
+            "keterangan": "Harga sudah termasuk free konsultasi, survey & cek lokasi, dan biaya transport dalam kota",
+            "free_services": [
+                "Free Konsultasi",
+                "Free survey & cek lokasi",
+                "Free Biaya Transport dalam kota"
+            ]
+        },
+        {
+            "jenis": "Dasaran Aspal dengan dasaran split 1/2",
+            "harga_per_m2": 100000,
+            "keterangan": "Harga sudah termasuk free konsultasi, survey & cek lokasi, dan biaya transport dalam kota",
+            "free_services": [
+                "Free Konsultasi",
+                "Free survey & cek lokasi",
+                "Free Biaya Transport dalam kota"
+            ]
+        },
+        {
+            "jenis": "Dasaran Aspal dengan dasaran split 3/5",
+            "harga_per_m2": 125000,
+            "keterangan": "Harga sudah termasuk free konsultasi, survey & cek lokasi, dan biaya transport dalam kota",
+            "free_services": [
+                "Free Konsultasi",
+                "Free survey & cek lokasi",
+                "Free Biaya Transport dalam kota"
+            ]
+        },
+        {
+            "jenis": "Dasaran menggunakan LPA dan LPB",
+            "harga_per_m2": 150000,
+            "keterangan": "Harga sudah termasuk free konsultasi, survey & cek lokasi, dan biaya transport dalam kota",
+            "free_services": [
+                "Free Konsultasi",
+                "Free survey & cek lokasi",
+                "Free Biaya Transport dalam kota"
+            ]
+        }
+    ]
+}
