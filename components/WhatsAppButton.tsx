@@ -15,9 +15,8 @@ const WhatsAppButton: React.FC = () => {
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 text-white w-16 h-16 rounded-full flex items-center justify-center shadow-lg transition-transform transform hover:scale-110 duration-300 z-50"
-      style={{ backgroundColor: '#FFA10B' }}
-      onMouseEnter={(e) => e.currentTarget.style.backgroundColor = '#ff8c00'}
-      onMouseLeave={(e) => e.currentTarget.style.backgroundColor = '#FFA10B'}
+      style={{ backgroundColor: '#25D366' }}
+      onMouseLeave={(e) => e.currentTarget.style.backgroundColor = '#25D366'}
       aria-label="Hubungi kami di WhatsApp"
     >
       <WhatsAppIcon className="h-8 w-8" />

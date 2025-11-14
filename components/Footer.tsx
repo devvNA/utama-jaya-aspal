@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
                         </p>
                     </div>
                     <div>
-                        <div className="inline-block px-3 py-1 rounded-full text-xs font-bold mb-3" style={{ backgroundColor: '#F6E244', color: '#1a1a1a' }}>
+                        <div className="inline-block px-3 py-1 rounded-full text-xs font-bold mb-3" style={{ backgroundColor: '#FFA10B', color: '#FFFFFF' }}>
                             KONTAK
                         </div>
                         <h3 className="text-xl font-bold text-white mb-3">Hubungi Kami</h3>
@@ -63,10 +63,10 @@ const Footer: React.FC = () => {
                         </div>
                         <h3 className="text-xl font-bold text-white mb-3">Ikuti Kami</h3>
                         <div className="mt-4 flex justify-center md:justify-start space-x-4">
-                            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full flex items-center justify-center transition-all duration-300 transform hover:scale-110 hover:rotate-6 text-white" style={{ backgroundColor: '#FFA10B' }}>
+                            <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full flex items-center justify-center transition-all duration-300 transform hover:scale-110 hover:rotate-6 text-white" style={{ backgroundColor: '#1877F2' }}>
                                 <FacebookIcon />
                             </a>
-                            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full flex items-center justify-center transition-all duration-300 transform hover:scale-110 hover:-rotate-6" style={{ backgroundColor: '#F6E244', color: '#1a1a1a' }}>
+                            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="w-12 h-12 rounded-full flex items-center justify-center transition-all duration-300 transform hover:scale-110 hover:-rotate-6 text-white" style={{ background: 'linear-gradient(45deg, #F58529, #DD2A7B, #8134AF, #515BD4)' }}>
                                 <InstagramIcon />
                             </a>
                         </div>
